@@ -1,6 +1,6 @@
 {
-  "name": "node-mail-sender”,
-  "version": “0.0.1”,
+  "name": "node-mail-sender",
+  "version": "0.0.1",
   "description": "A simple mail sender engine",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/joaogabriel/node-mail-sender”
+    "url": "https://github.com/joaogabriel/node-mail-sender"
   },
   "keywords": [
     "node",
