@@ -1,1 +1,1 @@
-web: node mailSender.js
+web: node sendMail.js
